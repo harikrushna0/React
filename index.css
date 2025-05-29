@@ -115,3 +115,27 @@ body {
   color: #607d8b;
   font-weight: 400;
 }
+
+.filer{
+  flex-direction: column;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.shimmer-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: flex-start;
+
+}
+
+.filter{
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 24px;
+}
+
+.searchbtn{
+  margin: 0 20px 0 2px;
+}
